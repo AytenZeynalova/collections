@@ -1,0 +1,14 @@
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\aytnz\Desktop\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\aytnz\Desktop\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
